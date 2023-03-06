@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../week_6/assessment-qa-devops/public"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "capstone_project"
+	}
+}
