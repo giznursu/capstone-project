@@ -3,49 +3,57 @@ const products = [
         category : "Bronzer",
         brand : "DIOR",
         name: "FOREVER NATURAL BRONZE",
-        color: "01"
+        color: "01",
+        img : "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dw7f239628/assets/Y0216000/Y0216000_C021600001_E01_GHC.jpg?sw=715&sh=773&sm=fit&imwidth=800"
     },
     {
         category : "Bronzer",
         brand : "DIOR",
         name: "FOREVER NATURAL BRONZE",
-        color: "02"
+        color: "02",
+        img : "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dwe81ce197/assets/Y0216000/Y0216000_C021600002_E01_GHC.jpg?sw=715&sh=773&sm=fit&imwidth=800"
     },
     {
         category : "Bronzer",
         brand : "DIOR",
         name: "FOREVER NATURAL BRONZE",
-        color: "03"
+        color: "03",
+        img :"https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dw54654978/assets/Y0216000/Y0216000_C021600003_E01_GHC.jpg?sw=715&sh=773&sm=fit&imwidth=800"
     },
     {
         category : "Bronzer",
         brand : "DIOR",
         name: "FOREVER NATURAL BRONZE",
-        color: "04"
+        color: "04",
+        img: "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dw22292940/assets/Y0216000/Y0216000_C021600004_E01_GHC.jpg?sw=715&sh=773&sm=fit&imwidth=800"
     },
     {
         category : "Bronzer",
         brand : "DIOR",
         name: "FOREVER NATURAL BRONZE",
-        color: "05"
+        color: "05",
+        img: "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dw767a57d6/assets/Y0216000/Y0216000_C021600005_E01_GHC.jpg?sw=715&sh=773&sm=fit&imwidth=800"
     },
     {
         category : "Bronzer",
         brand : "FENTY BEAUTY",
         name: "Sun Stalk'r Instant Warmth Bronzer",
-        color: "Inda Sun"
+        color: "Inda Sun",
+        img : "https://media.ulta.com/i/ulta/2592464?w=720&fmt=webp"
     },
     {
         category : "Bronzer",
         brand : "FENTY BEAUTY",
         name: "Sun Stalk'r Instant Warmth Bronzer",
-        color: "Shady Biz"
+        color: "Shady Biz",
+        img:"https://media.ulta.com/i/ulta/2592465?w=720&fmt=webp"
     },
     {
         category : "Bronzer",
         brand : "FENTY BEAUTY",
         name: "Sun Stalk'r Instant Warmth Bronzer",
-        color: "Caramel Cutie"
+        color: "Caramel Cutie",
+        img:"https://media.ulta.com/i/ulta/2592469?w=720&fmt=webp"
     },
     {
         category : "Concelear",
@@ -212,3 +220,5 @@ const products = [
     
     
 ]
+
+module.exports = {products}
