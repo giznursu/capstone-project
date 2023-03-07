@@ -1,0 +1,222 @@
+
+.container1 {
+    position: relative;
+    width: 50%;
+  }
+  
+  /* Make the image responsive */
+  .container1 img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .container1 .delete-button {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+
+  .container2 {
+    position: relative;
+    width: 50%;
+  }
+  
+
+  .container2 img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .container2 .delete-button {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+
+  .container3 {
+    position: relative;
+    width: 50%;
+  }
+  
+
+  .container3 img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .container3 .delete-button {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+
+
+  .container4 {
+    position: relative;
+    width: 50%;
+  }
+  
+
+  .container4 img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .container4 .delete-button {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .container5 {
+    position: relative;
+    width: 50%;
+  }
+  
+
+  .container5 img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .container5 .delete-button {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+
+  .container6 {
+    position: relative;
+    width: 50%;
+  }
+  
+
+  .container6 img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .container6 .delete-button {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+
+  .container7 {
+    position: relative;
+    width: 50%;
+  }
+  
+
+  .container7 img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .container7 .delete-button {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .container8 {
+    position: relative;
+    width: 50%;
+  }
+  
+
+  .container8 img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .container8 .delete-button {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
